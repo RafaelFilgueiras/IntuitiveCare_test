@@ -1,0 +1,12 @@
+anexos/
+*.zip
+*.pdf
+venv/
+__pycache__/
+demonstracoes_contabeis/
+*.csv
+frontend/.vscode/
+frontend/node_modules/
+frontend/public/
+frontend/.prettierrc*
+frontend/eslint.config.js
